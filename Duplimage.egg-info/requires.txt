@@ -1,0 +1,5 @@
+easygui
+imagehash
+numpy
+opencv-python-headless
+Pillow

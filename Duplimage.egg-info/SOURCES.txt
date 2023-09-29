@@ -1,0 +1,7 @@
+setup.py
+Duplimage.egg-info/PKG-INFO
+Duplimage.egg-info/SOURCES.txt
+Duplimage.egg-info/dependency_links.txt
+Duplimage.egg-info/entry_points.txt
+Duplimage.egg-info/requires.txt
+Duplimage.egg-info/top_level.txt

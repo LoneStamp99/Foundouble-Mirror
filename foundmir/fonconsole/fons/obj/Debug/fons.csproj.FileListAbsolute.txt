@@ -1,0 +1,6 @@
+D:\Projects\Random\Scanner\ImageDuplicate\fonconsole\fons\bin\Debug\fons.exe.config
+D:\Projects\Random\Scanner\ImageDuplicate\fonconsole\fons\bin\Debug\fons.exe
+D:\Projects\Random\Scanner\ImageDuplicate\fonconsole\fons\bin\Debug\fons.pdb
+D:\Projects\Random\Scanner\ImageDuplicate\fonconsole\fons\obj\Debug\fons.csprojResolveAssemblyReference.cache
+D:\Projects\Random\Scanner\ImageDuplicate\fonconsole\fons\obj\Debug\fons.exe
+D:\Projects\Random\Scanner\ImageDuplicate\fonconsole\fons\obj\Debug\fons.pdb

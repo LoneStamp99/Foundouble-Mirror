@@ -1,0 +1,10 @@
+os
+tkinter
+easygui
+shutil
+argparse
+collections
+opencv-python
+numpy
+imagehash
+Pillow

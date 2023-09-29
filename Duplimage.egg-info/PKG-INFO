@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Duplimage
+Version: 1.0.0
+Requires-Python: >=3.6
+Requires-Dist: easygui
+Requires-Dist: imagehash
+Requires-Dist: numpy
+Requires-Dist: opencv-python-headless
+Requires-Dist: Pillow
