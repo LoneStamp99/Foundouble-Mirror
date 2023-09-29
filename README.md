@@ -13,7 +13,7 @@ The script is very efficient and can handle large collections of images quickly.
 
 1. Clone the Git repository:
     ```shell
-       [pip install open-interpreter](https://github.com/LoneStamp99/Foundouble-Mirror.git)
+       https://github.com/LoneStamp99/Foundouble-Mirror.git
     ```
 2. Install the required Python packages | Ruby not necessary:
    ```shell
