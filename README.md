@@ -31,4 +31,10 @@ The script is very efficient and can handle large collections of images quickly.
 5. Selection 1. (Scan now) is general scanning, it scan entire system and takes too long. Selection 2. => Add the folder path that you want to scan for duplicate images.
 6. Once the scan is complete, you can review the results and delete the duplicate images, if desired.
 
+## Socmed & site
+
+[![Facebook](https://example.com/facebook.png)](https://example.com/facebook)
+[![YouTube](https://example.com/youtube.png)](https://example.com/youtube)
+[![Pinterest](https://example.com/pinterest.png)](https://example.com/pinterest)
+
 
