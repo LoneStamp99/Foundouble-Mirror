@@ -10,19 +10,21 @@ The script is very efficient and can handle large collections of images quickly.
 
 1. Clone the Git repository:
     ```shell
-pip install open-interpreter
-```
-2. Install the required Python packages:
-    * pip install -r requirements.txt
-3. Run the image duplicate scanner:
+       pip install open-interpreter
+    ```
+2. Install the required Python packages | Ruby not necessary:
+   ```shell
+       pip install -r requirements.txt
+    ```
+   ```shell
+       bundle install
+    ```
+4. Run the image duplicate scanner:
     * Windows: start.bat
     * Mac/Linux: start.sh
-4. Select the folders that you want to scan for duplicate images.
-5. Click the "Start Scan" button.
+    * Ruby type <strong>Start</strong> & enter
+5. Add the folder path that you want to scan for duplicate images.
 6. The image duplicate scanner will scan the selected folders and find all duplicate images.
 7. Once the scan is complete, you can review the results and delete the duplicate images, if desired.
-  navigator.clipboard.writeText(text);
-}
-</script>
 
 
