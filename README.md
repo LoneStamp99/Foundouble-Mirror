@@ -9,13 +9,9 @@ The script is very efficient and can handle large collections of images quickly.
 ## Usage
 
 1. Clone the Git repository:
-    <a href="https://github.com/[YOUR_USERNAME]/image-duplicate-scanner.git" onclick="copyText()">git clone https://github.com/[YOUR_USERNAME]/image-duplicate-scanner.git</a>
-<script>
-function copyText() {
-  var text = document.getElementById("myLink").getAttribute("href");
-  navigator.clipboard.writeText(text);
-}
-</script>
+    ```shell
+pip install open-interpreter
+```
 2. Install the required Python packages:
     * pip install -r requirements.txt
 3. Run the image duplicate scanner:
